@@ -7,7 +7,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=singhic&theme=material-palenight&show_icons=true">
 
 🏆 Baekjoon solved rank 🏆
-<br>
+<br><br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=singhik)](https://solved.ac/singhik)
 </div>
 
