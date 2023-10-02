@@ -6,9 +6,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhic&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=singhic&show_icons=true">
 
-<p>🏆 Baekjoon solved rank 🏆</p>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=singhik)](https://solved.ac/singhik)
+🏆 Baekjoon solved rank 🏆
+<br>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=singhik)](https://solved.ac/singhik)
 </div>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
