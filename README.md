@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-<h3 align ="center">🔗 Teah Stack</h3>
+<h3 align ="center">🔗 Teah Stacks</h3>
 
 <p align="center"> 
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/></a>&nbsp
