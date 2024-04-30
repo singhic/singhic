@@ -29,7 +29,7 @@
   🔥 Stats
 </summary>
    <div align=center>
-[![GitHub Streak](https://streak-stats.demolab.com?user=singhic&theme=github-dark-blue)](https://git.io/streak-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhic&layout=compact"><br><br>
 
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=singhik)](https://solved.ac/singhik)
