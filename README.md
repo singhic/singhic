@@ -26,7 +26,7 @@
   
 | Project | Contest | Tech Stack | Year |
 |---------|---------|------------|------|
-| [Megabrain Blog Auto Parser](https://github.com/inje-megabrain/megabrain.kr) | 동아리부원 블로그 자동 파싱 | Typescript | 2024 |
+| [Megabrain Blog Auto Parser](https://github.com/inje-megabrain/megabrain.kr) | Team Member's Blog Auto Parsing | Typescript | 2024 |
 
 
 <br/>
