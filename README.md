@@ -13,7 +13,7 @@
  <h3 align ="center">🔗 Me</h3>
  
  <p align="center">
-   <a href="mailto:code.singhik@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
+   <a href="mailto:singhic@outlook.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
   <a href="https://www.instagram.com/singhik__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
  </p>
 
@@ -27,6 +27,7 @@
 | Project | Contest | Tech Stack | Year |
 |---------|---------|------------|------|
 | [Megabrain Blog Auto Parser](https://github.com/inje-megabrain/megabrain.kr) | Team Member's Blog Auto Parsing | Typescript | 2024 |
+| [Inje-univ bus reservation system](https://github.com/inje-megabrain/irbs) | Inje-university Integrated bus reservation system | React | 2024 |
 
 
 <br/>
