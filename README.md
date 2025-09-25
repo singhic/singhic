@@ -29,5 +29,7 @@
   
 | Project | Contest | Tech Stack | Year |
 |---------|---------|------------|------|
-| [Megabrain Blog Auto Parser](https://github.com/inje-megabrain/megabrain.kr) | Team Member's Blog Auto Parsing | Typescript | 2024 |
-| [Inje-univ bus reservation system](https://github.com/inje-megabrain/irbs) | Inje-university Integrated bus reservation system | React | 2024 |
+| [Megabrain Blog Auto Parser](https://github.com/inje-megabrain/megabrain.kr) | Team Member's Blog Auto Parsing with Github workflow | Typescript | 2024 |
+| [Unofficial. Inje-univ bus reservation system](https://github.com/inje-megabrain/irbs) | Inje-university Integrated bus reservation system | React | 2024 |
+| [Inje CS Coding Competition Site](https://ijo.megabrain.kr) | Coding contest platform for CS freshmen | React | 2025 |
+| [Official. Inje-univ bus reservation system](https://bus.inje.ac.kr) | Inje-university Integrated bus reservation system (QA Tester) | QA / Testing | 2025 |
