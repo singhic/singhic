@@ -33,3 +33,4 @@
 | [Unofficial. Inje-univ bus reservation system](https://github.com/inje-megabrain/irbs) | Inje-university Integrated bus reservation system | React | 2024 |
 | [Inje CS Coding Competition Site](https://ijo.megabrain.kr) | Coding contest platform for CS freshmen | React | 2025 |
 | [Official. Inje-univ bus reservation system](https://bus.inje.ac.kr) | Inje-university Integrated bus reservation system (QA Tester) | QA / Testing | 2025 |
+| [SYU CAMPUS](https://campus.syu.kr) | Campus life information platform for students | Next.js / Firebase | 2026 |
